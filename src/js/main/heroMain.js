@@ -4,7 +4,9 @@ import logo from '../../images/vectors/logo.svg';
 
 const heroObject = {
   subtitle: '',
-  text: 'Looking for a way to improve your design and manage your construction effectively? Powerkh - a trusted BIM & VDC services provider with extensive engineering experience and a portfolio of 200+ successful BIM & VDC projects.',
+  text: 'Looking for a way to improve your design and manage your construction effectively?',
+  text2:
+    ' Powerkh - a trusted BIM & VDC services provider with extensive engineering experience and a portfolio of 200+ successful BIM & VDC projects.',
 };
 
 const mainHero = refs.hero;

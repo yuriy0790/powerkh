@@ -4,3 +4,4 @@ import '../components/footer';
 import '../components/sliderSection';
 
 import '../components/contactUsModal/contactUsModal';
+import '../common/ourCaseStudiesClass';
